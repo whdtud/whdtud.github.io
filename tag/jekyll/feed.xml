@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
+  <link href="https://whdtud.github.io/tag/jekyll/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="https://whdtud.github.io/" rel="alternate" type="text/html" />
+  <updated>2021-06-03T16:05:16+09:00</updated>
+  <id>https://whdtud.github.io/tag/jekyll/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">TITLE | </title>
+  
+
+  
+    <subtitle>DESCRIPTION</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">Jekyll First Post</title>
+      <link href="https://whdtud.github.io/jekyll-first-post" rel="alternate" type="text/html" title="Jekyll First Post" />
+      <published>2021-05-02T19:30:00+09:00</published>
+      <updated>2021-05-02T19:30:00+09:00</updated>
+      <id>https://whdtud.github.io/jekyll-first-post</id>
+      <content type="html" xml:base="https://whdtud.github.io/jekyll-first-post">&lt;p&gt;This is jekyll first post.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>JongSeong Woo</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="jekyll" />
+      
+
+      
+        <summary type="html">This is jekyll first post.</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>
