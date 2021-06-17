@@ -5,8 +5,8 @@
     <description>Use Jekyll and github pages.</description>
     <link>https://whdtud.github.io/home/home/</link>
     <atom:link href="https://whdtud.github.io/home/home/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 18 Jun 2021 00:58:34 +0900</pubDate>
-    <lastBuildDate>Fri, 18 Jun 2021 00:58:34 +0900</lastBuildDate>
+    <pubDate>Fri, 18 Jun 2021 01:07:43 +0900</pubDate>
+    <lastBuildDate>Fri, 18 Jun 2021 01:07:43 +0900</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
     
       <item>
@@ -62,8 +62,8 @@ say_hello()   // &quot;hello world!&quot;
   &lt;li&gt;
     &lt;p&gt;Fork &lt;a href=&quot;https://github.com/jarrekk/Jalpc&quot;&gt;this project – Jalpc&lt;/a&gt; at &lt;a href=&quot;https://github.com&quot;&gt;GitHub&lt;/a&gt;. If you want to edit website at github, do it as following gif or clone forked repository. &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;git clone git@github.com:github_username/Jalpc.git&lt;/code&gt;.&lt;/p&gt;
 
-    &lt;p&gt;&lt;!-- ![edit](/Jalpc/static/assets/img/blog/3steps/edit.gif) --&gt;
- &lt;img src=&quot;/Jalpc/static/assets/img/blog/3steps/edit.gif&quot; width=&quot;75%&quot; /&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;!-- ![edit](/home/static/assets/img/blog/3steps/edit.gif) --&gt;
+ &lt;img src=&quot;/home/static/assets/img/blog/3steps/edit.gif&quot; width=&quot;75%&quot; /&gt;&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;Enter into repository directory and edit following file list:&lt;/p&gt;
